@@ -1,5 +1,5 @@
 # Freebase Suggest Text Field #
-A HTML text field with input suggestions from [Freebase][http://www.freebase.com/]. Uses the jQuery plugin [Freebase Suggest][http://code.google.com/p/freebase-suggest/].
+A HTML text field with input suggestions from <a href="http://www.freebase.com/" target="_blank">Freebase</a>. Uses the jQuery plugin <a href="http://code.google.com/p/freebase-suggest/" target="_blank">Freebase Suggest</a>.
 
 # Requirements #
 This plugin references libraries hosted on remote servers, so Internet access is definitely recommended.
